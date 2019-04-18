@@ -9,5 +9,5 @@ tags: [start]
 
 # Hello World 
 
-After seeing much turmoil and beurocracy in many open source communities it was decided that the shrike would come to the 
+After seeing much turmoil and bureaucracy in many open source communities it was decided that the shrike would come to the 
 rescue.
